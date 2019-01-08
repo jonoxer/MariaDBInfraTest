@@ -5,4 +5,6 @@ helper scripts before deploying them for MariaDB.
 
 Appending a line.
 
-Appending another line
+Appending another line.
+
+Appending a third line.
